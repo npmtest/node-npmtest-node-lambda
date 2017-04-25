@@ -1,6 +1,6 @@
 # npmtest-node-lambda
 
-#### test coverage for  [node-lambda (v0.9.0)](https://github.com/rebelmail/node-lambda#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-lambda.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-lambda) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-lambda.svg)](https://travis-ci.org/npmtest/node-npmtest-node-lambda)
+#### basic test coverage for  [node-lambda (v0.9.0)](https://github.com/rebelmail/node-lambda#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-lambda.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-lambda) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-lambda.svg)](https://travis-ci.org/npmtest/node-npmtest-node-lambda)
 
 #### Command line tool for locally running and remotely deploying your node.js applications to Amazon Lambda.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-lambda/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-lambda/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-lambda/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-lambda/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-lambda/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-lambda/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-lambda/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-lambda/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-lambda/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-lambda/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-lambda/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-lambda/build/coverage.html/index.html)
 
